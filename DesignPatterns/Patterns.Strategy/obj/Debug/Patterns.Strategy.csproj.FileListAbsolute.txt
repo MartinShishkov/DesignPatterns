@@ -1,0 +1,8 @@
+C:\Users\Martin\documents\visual studio 2017\Projects\DesignPatterns\Patterns.Strategy\bin\Debug\Patterns.Strategy.exe.config
+C:\Users\Martin\documents\visual studio 2017\Projects\DesignPatterns\Patterns.Strategy\bin\Debug\Patterns.Strategy.exe
+C:\Users\Martin\documents\visual studio 2017\Projects\DesignPatterns\Patterns.Strategy\bin\Debug\Patterns.Strategy.pdb
+C:\Users\Martin\documents\visual studio 2017\Projects\DesignPatterns\Patterns.Strategy\bin\Debug\nunit.framework.dll
+C:\Users\Martin\documents\visual studio 2017\Projects\DesignPatterns\Patterns.Strategy\bin\Debug\nunit.framework.xml
+C:\Users\Martin\documents\visual studio 2017\Projects\DesignPatterns\Patterns.Strategy\obj\Debug\Patterns.Strategy.csprojResolveAssemblyReference.cache
+C:\Users\Martin\documents\visual studio 2017\Projects\DesignPatterns\Patterns.Strategy\obj\Debug\Patterns.Strategy.exe
+C:\Users\Martin\documents\visual studio 2017\Projects\DesignPatterns\Patterns.Strategy\obj\Debug\Patterns.Strategy.pdb
